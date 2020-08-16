@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kevin.multi.datasource.spring.boot.autoconfigure.DynamicDataSourceAutoConfigure
